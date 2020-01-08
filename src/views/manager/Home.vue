@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <header class="header">
-      <img src="../../assets/home.jpg" alt="">
+      <img src="../../assets/1.png"  alt="">
       </header>
       <!-- 内容区 -->
       <div>
